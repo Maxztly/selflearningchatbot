@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "& D:/python/python.exe d:/myprojects/selflearningchatbot/main.py",
+      "answer": "& D:/python/python.exe d:/myprojects/selflearningchatbot/main.py"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi can i help you?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi can i help you?"
+    }
+  ]
+}
