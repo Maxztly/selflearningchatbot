@@ -1,16 +1,19 @@
 {
-  "questions": [
-    {
-      "question": "& D:/python/python.exe d:/myprojects/selflearningchatbot/main.py",
-      "answer": "& D:/python/python.exe d:/myprojects/selflearningchatbot/main.py"
-    },
-    {
-      "question": "Hello",
-      "answer": "Hi can i help you?"
-    },
-    {
-      "question": "Hi",
-      "answer": "Hi can i help you?"
-    }
-  ]
+    "questions": [
+        {
+            "question": "Hello!",
+            "answer": "Hey there!"
+        },
+        {
+            "question": "how are you?",
+            "answer": "good! thanks for asking!"
+        },
+
+        {
+            "question": "...",
+            "answer": "Elipses"
+        }
+
+    ]
+
 }
